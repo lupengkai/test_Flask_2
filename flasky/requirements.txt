@@ -33,7 +33,7 @@ numpy==1.11.0
 oauthlib==1.0.0
 onboard==1.1.2
 oneconf==0.3.8
-paramiko==1.16.0
+paramiko==2.10.1
 pathtools==0.1.2
 pexpect==3.2
 Pillow==2.9.0
