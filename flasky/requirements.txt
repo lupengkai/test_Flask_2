@@ -29,7 +29,7 @@ lxml==3.4.4
 Mako==1.0.2
 MarkupSafe==0.23
 mysql-connector-python==2.0.4
-numpy==1.11.0
+numpy==1.22.0
 oauthlib==1.0.0
 onboard==1.1.2
 oneconf==0.3.8
